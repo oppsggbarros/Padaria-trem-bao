@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace Padaria
 {
-    public class Funcionario
+    public class Vendedor : Usuario
     {
-        
+        public float Salario { get; set; }
+
     }
 }

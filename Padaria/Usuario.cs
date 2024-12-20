@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 
 namespace Padaria
 {
-    public class Padaria
+    public class Usuario
     {
         public string nome { get; set; }
+        public string cpf { get; set; }
         public string endereco { get; set; }
         public string telefone { get; set; }
-        public List<Cliente> listaClientes = new List<Cliente>();
+        public double salario { get; set; }
+        
     }
 }
