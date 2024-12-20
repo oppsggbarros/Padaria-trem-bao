@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Padaria
 {
-    public class Produto
+    public interface IProduto
     {
         
     }
