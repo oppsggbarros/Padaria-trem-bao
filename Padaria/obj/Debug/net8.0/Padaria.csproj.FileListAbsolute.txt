@@ -1,0 +1,14 @@
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\bin\Debug\net8.0\Padaria.exe
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\bin\Debug\net8.0\Padaria.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\bin\Debug\net8.0\Padaria.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\bin\Debug\net8.0\Padaria.dll
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\bin\Debug\net8.0\Padaria.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.dll
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\refint\Padaria.dll
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\Padaria.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Padaria-trem-bao\Padaria\obj\Debug\net8.0\ref\Padaria.dll
