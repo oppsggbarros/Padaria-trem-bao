@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace Padaria
 {
-    public interface IProduto
+    public interface IGestaoInfo
     {
-        
+        void ImprimirApenasUm();
+
+        void ImprimirTodos();
     }
 }
